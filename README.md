@@ -1,4 +1,5 @@
-## Course Project 4
+## Мини проект на подобии Нетфликс
+Использован flask, flask-retx, sqlalchemy, marshmallow
 - Установка зависимостей
 ```shell
 pip install -r requirements.txt
