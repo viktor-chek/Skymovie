@@ -1,5 +1,5 @@
 ## Мини проект на подобии Нетфликс
-Использован flask, flask-retx, sqlalchemy, marshmallow
+Использован flask, flask-restx, sqlalchemy, marshmallow
 - Установка зависимостей
 ```shell
 pip install -r requirements.txt
